@@ -1,2 +1,3 @@
-# Retail_Order_Management_System
- 
+# Retail Order Management System
+
+In this project, students are required to design a Retail Order Management System for small retailers. And there are two different stockholders, admin and customer. Admin can manage customers, manage products and manage orders. Based on the system requirements, the customer can only manage orders. In this project, the developer learns the fundamentals of object-oriented programmings, such as inheritance, polymorphism, encapsulation, and abstraction. The developer got the chance to differentiate between a variety of data types and its unique features, for example, Vectors and ArrayList, then implemented it to their project as well as, developer learn how to allocate resources effectively (memory), or how to design an optimal algorithm (timely efficient). And it was clear that all researches and practices are helpful for future software engineers.
